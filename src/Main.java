@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        KidUser kid1 = new KidUser(10, "kids");
-        KidUser kid2 = new KidUser(18, "fiction");
+        KidUser kid1 = new KidUser(10, "Kids");
+        KidUser kid2 = new KidUser(18, "Fiction");
 
         kid1.registerAccount();
         kid2.registerAccount();
